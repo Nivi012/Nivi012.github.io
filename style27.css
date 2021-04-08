@@ -1,0 +1,518 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,300,700,500|Quicksand:400,700,500");
+.surface-book-27 {
+  background-color: white;
+  height: 1344px;
+  position: relative;
+  width: 1500px;
+}
+.surface-book-27 .akar-iconsshopping-bag {
+  align-items: flex-start;
+  display: flex;
+  height: 29px;
+  margin-right: 2px;
+  padding: 0.9px 2px;
+  width: 29px;
+}
+.surface-book-27 .ant-designheart-outlined {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  margin-right: 1px;
+  padding: 3px 2px;
+  width: 30px;
+}
+.surface-book-27 .carbonsearch {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 27px;
+  padding: 1.1px 1px;
+  width: 24px;
+}
+.surface-book-27 .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 5px;
+  margin-top: 8px;
+  min-width: 67px;
+}
+.surface-book-27 .frame-21 {
+  height: 1212px;
+  left: 466px;
+  position: absolute;
+  top: 92px;
+  width: 543px;
+}
+.surface-book-27 .group-18 {
+  align-items: flex-start;
+  display: flex;
+  height: 316px;
+  left: 54px;
+  min-width: 200px;
+  position: absolute;
+  top: 138px;
+}
+.surface-book-27 .group-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  left: 698px;
+  min-width: 487px;
+  position: absolute;
+  top: 30px;
+}
+.surface-book-27 .group-26 {
+  align-items: flex-start;
+  display: flex;
+  height: 811px;
+  left: 1002px;
+  min-width: 470px;
+  position: absolute;
+  top: 138px;
+}
+.surface-book-27 .group-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  left: 153px;
+  min-width: 505px;
+  position: absolute;
+  top: 44px;
+}
+.surface-book-27 .group-48 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  justify-content: flex-end;
+  left: 524px;
+  min-width: 26px;
+  padding: 4.5px 9px;
+  position: absolute;
+  top: 179px;
+}
+.surface-book-27 .group-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 1336px;
+  min-height: 45px;
+  position: absolute;
+  top: 33px;
+  width: 51px;
+}
+.surface-book-27 .group-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 1419px;
+  min-height: 45px;
+  position: absolute;
+  top: 33px;
+  width: 51px;
+}
+.surface-book-27 .home-living {
+  letter-spacing: 0px;
+  margin-left: 53px;
+  min-height: 18px;
+  min-width: 109px;
+  text-align: center;
+}
+.surface-book-27 .kids {
+  letter-spacing: 0px;
+  margin-left: 49px;
+  min-height: 18px;
+  min-width: 35px;
+  text-align: center;
+}
+.surface-book-27 .line-5 {
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 74px;
+  width: 456px;
+}
+.surface-book-27 .men {
+  letter-spacing: 0px;
+  min-height: 18px;
+  min-width: 35px;
+  text-align: center;
+}
+.surface-book-27 .messages {
+  left: 217px;
+  letter-spacing: 0.56px;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  width: 107px;
+}
+.surface-book-27 .myntra-logo-freelogovectors-1 {
+  height: 42px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 61px;
+}
+.surface-book-27 .offers {
+  letter-spacing: 0px;
+  margin-left: 55px;
+  min-height: 18px;
+  min-width: 56px;
+  text-align: center;
+}
+.surface-book-27 .overlap-group {
+  height: 1304px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+.surface-book-27 .overlap-group1 {
+  height: 27px;
+  position: relative;
+  width: 25px;
+}
+.surface-book-27 .overlap-group1-1 {
+  align-items: flex-start;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  min-height: 316px;
+  padding: 12px 10px;
+  width: 196px;
+}
+.surface-book-27 .overlap-group1-2 {
+  height: 212px;
+  margin-left: 6px;
+  margin-top: 496px;
+  position: relative;
+  width: 402px;
+}
+.surface-book-27 .overlap-group1-3 {
+  align-items: center;
+  background-color: var(--cultured-pearl);
+  border-radius: 8px;
+  display: flex;
+  height: 48px;
+  min-width: 485px;
+  padding: 10px 24.7px;
+}
+.surface-book-27 .overlap-group2 {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 10px;
+  box-shadow: 0px 4px 48px rgba(0, 0, 0, 0.09);
+  display: flex;
+  flex-direction: column;
+  min-height: 811px;
+  width: 456px;
+}
+.surface-book-27 .overlap-group3 {
+  height: 74px;
+  position: relative;
+  width: 456px;
+}
+.surface-book-27 .participants {
+  left: 348px;
+  letter-spacing: 0.56px;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: 91px;
+}
+.surface-book-27 .place {
+  letter-spacing: 0px;
+  margin-top: 2px;
+  min-height: 14px;
+  text-align: center;
+  width: 51px;
+}
+.surface-book-27 .rectangle-1 {
+  background-color: white;
+  box-shadow: 0px 4px 36px rgba(0, 0, 0, 0.06);
+  height: 109px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+.surface-book-27 .rectangle-22 {
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 456px;
+}
+.surface-book-27 .rectangle-23 {
+  background-color: var(--radical-red-2);
+  border-radius: 7px;
+  height: 33px;
+  left: 199px;
+  position: absolute;
+  top: 24px;
+  width: 141px;
+}
+.surface-book-27 .rectangle-24 {
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0px 4px 17px rgba(0, 0, 0, 0.08);
+  height: 62px;
+  left: 0px;
+  position: absolute;
+  top: 150px;
+  width: 402px;
+}
+.surface-book-27 .rectangle-25 {
+  background-color: var(--radical-red);
+  border-radius: 12px;
+  height: 43px;
+  left: 345px;
+  position: absolute;
+  top: 159px;
+  width: 48px;
+}
+.surface-book-27 .rectangle-32 {
+  height: 207px;
+  width: 173px;
+}
+.surface-book-27 .rectangle-32-1 {
+  height: 132px;
+  left: 11px;
+  position: absolute;
+  top: 9px;
+  width: 99px;
+}
+.surface-book-27 .rectangle-41 {
+  background-color: white;
+  border-radius: 6px;
+  height: 206px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 402px;
+}
+.surface-book-27 .room-name {
+  left: 36px;
+  letter-spacing: 0.8px;
+  position: absolute;
+  top: 29px;
+  width: 122px;
+}
+.surface-book-27 .rs-899 {
+  color: rgba(49, 49, 49, 1);
+  font-family: "Quicksand", Helvetica;
+  font-size: 9px;
+  font-weight: 500;
+  left: 121px;
+  letter-spacing: 0.36px;
+  position: absolute;
+  top: 82px;
+}
+.surface-book-27 .rs-899-1 {
+  letter-spacing: 0.44px;
+  margin-left: 4px;
+  margin-top: 6px;
+  min-height: 12px;
+  width: 68px;
+}
+.surface-book-27 .send {
+  align-items: center;
+  display: flex;
+  height: 24px;
+  left: 359px;
+  padding: 0 11.8px;
+  position: absolute;
+  top: 169px;
+  width: 24px;
+}
+.surface-book-27 .star- {
+  height: 10px;
+  margin-left: 3px;
+  width: 11px;
+}
+.surface-book-27 .star-1 {
+  height: 10px;
+  width: 11px;
+}
+.surface-book-27 .text-1 {
+  align-self: center;
+  letter-spacing: 0.64px;
+  margin-top: 10px;
+  min-height: 38px;
+  width: 168px;
+}
+.surface-book-27 .text-2 {
+  letter-spacing: 0px;
+  margin-bottom: 2px;
+  margin-left: 18px;
+  min-height: 18px;
+  width: 275px;
+}
+.surface-book-27 .text-3 {
+  left: 121px;
+  letter-spacing: 0.64px;
+  position: absolute;
+  top: 15px;
+  width: 217px;
+}
+.surface-book-27 .text-4 {
+  left: 121px;
+  letter-spacing: 0.36px;
+  position: absolute;
+  top: 59px;
+}
+.surface-book-27 .vector {
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 7px;
+  width: 25px;
+}
+.surface-book-27 .vector-1 {
+  height: 14px;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.surface-book-27 .vector-2 {
+  height: 15px;
+  width: 7px;
+}
+.surface-book-27 .vector-3 {
+  height: 24px;
+  width: 21px;
+}
+.surface-book-27 .vector-4 {
+  height: 1px;
+  width: 1px;
+}
+.surface-book-27 .vector-5 {
+  height: 24px;
+  width: 26px;
+}
+.surface-book-27 .vector-6 {
+  height: 20px;
+  left: 360px;
+  position: absolute;
+  top: 169px;
+  width: 23px;
+}
+.surface-book-27 .wishlist {
+  letter-spacing: 0px;
+  margin-top: 1px;
+  min-height: 14px;
+  text-align: center;
+  width: 51px;
+}
+.surface-book-27 .women {
+  letter-spacing: 0px;
+  margin-left: 47px;
+  min-height: 18px;
+  min-width: 58px;
+  text-align: center;
+}
+.surface-book-27 .write-your-message {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 31px;
+  letter-spacing: 0.56px;
+  line-height: normal;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 174px;
+  width: 213px;
+}
+.surface-book-27 .write-your-message::placeholder {
+  color: rgba(196, 196, 196, 0.6);
+}
+* {
+  box-sizing: border-box;
+}
+.border-1px-bon-jour {
+  border: 1px solid var(--bon-jour);
+}
+.quicksand-medium-black-16px {
+  color: black;
+  font-family: "Quicksand", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+}
+.quicksand-medium-nobel-9px {
+  color: rgba(176, 176, 176, 1);
+  font-family: "Quicksand", Helvetica;
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 500;
+}
+.quicksand-medium-silver-11px {
+  color: var(--silver);
+  font-family: "Quicksand", Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-light-oslo-gray-15px {
+  color: var(--oslo-gray);
+  font-family: "Roboto", Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 300;
+}
+.roboto-medium-black-20px {
+  color: black;
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-medium-mist-gray-14px {
+  color: rgba(196, 196, 196, 1);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-medium-radical-red-14px {
+  color: var(--radical-red);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-medium-shark-15px {
+  color: var(--shark);
+  font-family: "Roboto", Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-normal-black-11px {
+  color: black;
+  font-family: "Roboto", Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-black-14px {
+  color: rgba(0, 0, 0, 0.37);
+  font-family: "Roboto", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --athens-gray: rgba(238, 240, 246, 1);
+  --bon-jour: rgba(223, 224, 226, 1);
+  --cultured-pearl: rgba(245, 245, 246, 1);
+  --oslo-gray: rgba(136, 137, 153, 1);
+  --radical-red: rgba(253, 63, 107, 1);
+  --radical-red-2: rgba(253, 62, 106, 0.11);
+  --shark: rgba(37, 37, 37, 1);
+  --silver: rgba(190, 190, 190, 1);
+}

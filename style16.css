@@ -1,0 +1,528 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+.surface-book-16 {
+  background-color: white;
+  height: 1242px;
+  overflow: hidden;
+  position: relative;
+  width: 1500px;
+}
+.surface-book-16 .akar-iconsshopping-bag {
+  align-items: flex-start;
+  display: flex;
+  height: 29px;
+  margin-right: 2px;
+  padding: 0.9px 2px;
+  width: 29px;
+}
+.surface-book-16 .ant-designheart-outlined {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  margin-right: 1px;
+  padding: 3px 2px;
+  width: 30px;
+}
+.surface-book-16 .carbonsearch {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 27px;
+  padding: 1.1px 1px;
+  width: 24px;
+}
+.surface-book-16 .elina-jones {
+  letter-spacing: 0.96px;
+  margin-left: 27px;
+  margin-top: 2px;
+  min-height: 19px;
+  width: 194px;
+}
+.surface-book-16 .elina-jones-1 {
+  letter-spacing: 0.96px;
+  margin-left: 27px;
+  min-height: 19px;
+  width: 194px;
+}
+.surface-book-16 .elina-jones-2 {
+  letter-spacing: 0.96px;
+  margin-left: 27px;
+  margin-top: 4px;
+  min-height: 19px;
+  width: 194px;
+}
+.surface-book-16 .elina-jones-3 {
+  letter-spacing: 0.96px;
+  margin-left: 27px;
+  margin-top: 6px;
+  min-height: 19px;
+  width: 194px;
+}
+.surface-book-16 .elina-jones-4 {
+  letter-spacing: 0.96px;
+  margin-bottom: 2px;
+  margin-left: 27px;
+  min-height: 19px;
+  width: 194px;
+}
+.surface-book-16 .ellipse-1 {
+  height: 41px;
+  width: 41px;
+}
+.surface-book-16 .evaarrow-ios-back-fill {
+  height: 24px;
+  left: 831px;
+  position: absolute;
+  top: 126px;
+  width: 24px;
+}
+.surface-book-16 .flex-row {
+  align-items: center;
+  display: flex;
+  margin-left: 40px;
+  margin-top: 20px;
+  min-width: 269px;
+}
+.surface-book-16 .flex-row-1 {
+  align-items: center;
+  display: flex;
+  margin-left: 38px;
+  margin-top: 26px;
+  min-width: 262px;
+}
+.surface-book-16 .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 5px;
+  margin-top: 8px;
+  min-width: 67px;
+}
+.surface-book-16 .flex-row-3 {
+  align-items: center;
+  display: flex;
+  margin-left: 38px;
+  margin-top: 21px;
+  min-width: 262px;
+}
+.surface-book-16 .frame-21 {
+  height: 1212px;
+  left: 466px;
+  position: absolute;
+  top: 86px;
+  width: 543px;
+}
+.surface-book-16 .group-18 {
+  align-items: flex-start;
+  display: flex;
+  height: 316px;
+  left: 54px;
+  min-width: 200px;
+  position: absolute;
+  top: 138px;
+}
+.surface-book-16 .group-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 48px;
+  left: 698px;
+  min-width: 487px;
+  position: absolute;
+  top: 30px;
+}
+.surface-book-16 .group-25 {
+  align-items: flex-start;
+  display: flex;
+  height: 811px;
+  left: 1002px;
+  min-width: 482px;
+  position: absolute;
+  top: 138px;
+}
+.surface-book-16 .group-27 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 68px;
+}
+.surface-book-16 .group-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 18px;
+  left: 153px;
+  min-width: 505px;
+  position: absolute;
+  top: 44px;
+}
+.surface-book-16 .group-48 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  justify-content: flex-end;
+  left: 524px;
+  min-width: 26px;
+  padding: 4.5px 9px;
+  position: absolute;
+  top: 179px;
+}
+.surface-book-16 .group-5 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 1336px;
+  min-height: 45px;
+  position: absolute;
+  top: 33px;
+  width: 51px;
+}
+.surface-book-16 .group-6 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  left: 1419px;
+  min-height: 45px;
+  position: absolute;
+  top: 33px;
+  width: 51px;
+}
+.surface-book-16 .home-living {
+  letter-spacing: 0px;
+  margin-left: 53px;
+  min-height: 18px;
+  min-width: 109px;
+  text-align: center;
+}
+.surface-book-16 .invite {
+  letter-spacing: 0.84px;
+  line-height: 19.1px;
+  margin-left: 9px;
+  min-height: 16px;
+  white-space: nowrap;
+}
+.surface-book-16 .kids {
+  letter-spacing: 0px;
+  margin-left: 49px;
+  min-height: 18px;
+  min-width: 35px;
+  text-align: center;
+}
+.surface-book-16 .leave-room {
+  letter-spacing: 0.56px;
+  margin-left: 12px;
+  margin-top: 4px;
+  min-height: 14px;
+  text-align: center;
+  width: 107px;
+}
+.surface-book-16 .line-5 {
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 74px;
+  width: 456px;
+}
+.surface-book-16 .men {
+  letter-spacing: 0px;
+  min-height: 18px;
+  min-width: 35px;
+  text-align: center;
+}
+.surface-book-16 .messages {
+  left: 197px;
+  letter-spacing: 0.56px;
+  position: absolute;
+  text-align: center;
+  top: 32px;
+  width: 107px;
+}
+.surface-book-16 .myntra-logo-freelogovectors-1 {
+  height: 42px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 61px;
+}
+.surface-book-16 .offers {
+  letter-spacing: 0px;
+  margin-left: 55px;
+  min-height: 18px;
+  min-width: 56px;
+  text-align: center;
+}
+.surface-book-16 .overlap-group {
+  height: 1298px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+.surface-book-16 .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--athens-gray);
+  border-radius: 10px;
+  box-shadow: 0px 4px 48px rgba(0, 0, 0, 0.09);
+  display: flex;
+  flex-direction: column;
+  min-height: 811px;
+  width: 456px;
+}
+.surface-book-16 .overlap-group1-1 {
+  align-items: flex-start;
+  border-radius: 6px;
+  display: flex;
+  flex-direction: column;
+  min-height: 316px;
+  padding: 12px 10px;
+  width: 196px;
+}
+.surface-book-16 .overlap-group1-2 {
+  height: 27px;
+  position: relative;
+  width: 25px;
+}
+.surface-book-16 .overlap-group2 {
+  align-items: center;
+  background-color: var(--radical-red);
+  border-radius: 11px;
+  display: flex;
+  height: 44px;
+  justify-content: flex-end;
+  min-width: 150px;
+  padding: 0 40px;
+}
+.surface-book-16 .overlap-group3 {
+  height: 74px;
+  position: relative;
+  width: 456px;
+}
+.surface-book-16 .overlap-group4 {
+  align-items: center;
+  background-color: rgba(245, 245, 246, 1);
+  border-radius: 8px;
+  display: flex;
+  height: 48px;
+  min-width: 485px;
+  padding: 10px 24.7px;
+}
+.surface-book-16 .participants {
+  left: 328px;
+  letter-spacing: 0.56px;
+  position: absolute;
+  text-align: center;
+  top: 34px;
+  width: 91px;
+}
+.surface-book-16 .place {
+  letter-spacing: 0px;
+  margin-top: 2px;
+  min-height: 14px;
+  text-align: center;
+  width: 51px;
+}
+.surface-book-16 .rectangle-1 {
+  background-color: white;
+  box-shadow: 0px 4px 36px rgba(0, 0, 0, 0.06);
+  height: 109px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1500px;
+}
+.surface-book-16 .rectangle-22 {
+  height: 74px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 456px;
+}
+.surface-book-16 .rectangle-23 {
+  background-color: var(--radical-red-2);
+  border-radius: 7px;
+  height: 30px;
+  left: 305px;
+  position: absolute;
+  top: 27px;
+  width: 134px;
+}
+.surface-book-16 .rectangle-32 {
+  height: 207px;
+  width: 173px;
+}
+.surface-book-16 .room-name {
+  left: 36px;
+  letter-spacing: 0.8px;
+  position: absolute;
+  top: 29px;
+  width: 122px;
+}
+.surface-book-16 .rs-899 {
+  letter-spacing: 0.44px;
+  margin-left: 4px;
+  margin-top: 6px;
+  min-height: 12px;
+  width: 68px;
+}
+.surface-book-16 .star- {
+  height: 10px;
+  margin-left: 3px;
+  width: 11px;
+}
+.surface-book-16 .star-1 {
+  height: 10px;
+  width: 11px;
+}
+.surface-book-16 .text-1 {
+  align-self: center;
+  letter-spacing: 0.64px;
+  margin-top: 10px;
+  min-height: 38px;
+  width: 168px;
+}
+.surface-book-16 .text-2 {
+  align-self: center;
+  letter-spacing: 0.84px;
+  line-height: 19.1px;
+  margin-right: 3px;
+  margin-top: 30px;
+  min-height: 82px;
+  width: 377px;
+}
+.surface-book-16 .text-3 {
+  color: rgba(136, 137, 153, 1);
+  font-family: "Roboto-Light", Helvetica;
+  font-size: 15px;
+  font-weight: 300;
+  letter-spacing: 0px;
+  margin-bottom: 2px;
+  margin-left: 18px;
+  min-height: 18px;
+  width: 275px;
+}
+.surface-book-16 .vector {
+  height: 14px;
+  left: 6px;
+  position: absolute;
+  top: 0px;
+  width: 13px;
+}
+.surface-book-16 .vector-1 {
+  height: 24px;
+  width: 26px;
+}
+.surface-book-16 .vector-2 {
+  height: 16px;
+  width: 15px;
+}
+.surface-book-16 .vector-3 {
+  height: 20px;
+  left: 0px;
+  position: absolute;
+  top: 7px;
+  width: 25px;
+}
+.surface-book-16 .vector-4 {
+  height: 24px;
+  width: 21px;
+}
+.surface-book-16 .vector-5 {
+  height: 15px;
+  width: 7px;
+}
+.surface-book-16 .wishlist {
+  letter-spacing: 0px;
+  margin-top: 1px;
+  min-height: 14px;
+  text-align: center;
+  width: 51px;
+}
+.surface-book-16 .women {
+  letter-spacing: 0px;
+  margin-left: 47px;
+  min-height: 18px;
+  min-width: 58px;
+  text-align: center;
+}
+* {
+  box-sizing: border-box;
+}
+.border-1px-bon-jour {
+  border: 1px solid var(--bon-jour);
+}
+.quicksand-medium-black-16px {
+  color: black;
+  font-family: "Quicksand-Medium", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+}
+.quicksand-medium-silver-11px {
+  color: var(--silver);
+  font-family: "Quicksand-Medium", Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-bold-white-14px {
+  color: white;
+  font-family: "Roboto-Bold", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+}
+.roboto-medium-black-16px {
+  color: black;
+  font-family: "Roboto-Medium", Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-medium-black-20px {
+  color: black;
+  font-family: "Roboto-Medium", Helvetica;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-medium-radical-red-14px {
+  color: var(--radical-red);
+  font-family: "Roboto-Medium", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-medium-shark-15px {
+  color: var(--shark);
+  font-family: "Roboto-Medium", Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-regular-normal-black-11px {
+  color: black;
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-regular-normal-silver-chalice-14px {
+  color: var(--silver-chalice);
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-regular-normal-waterloo--14px {
+  color: var(--waterloo-);
+  font-family: "Roboto-Regular", Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --athens-gray: rgba(238, 240, 246, 1);
+  --bon-jour: rgba(223, 224, 226, 1);
+  --radical-red: rgba(253, 63, 107, 1);
+  --radical-red-2: rgba(253, 62, 106, 0.11);
+  --shark: rgba(37, 37, 37, 1);
+  --silver: rgba(190, 190, 190, 1);
+  --silver-chalice: rgba(172, 173, 176, 1);
+  --waterloo-: rgba(129, 130, 147, 1);
+}
